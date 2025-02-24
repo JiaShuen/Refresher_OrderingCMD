@@ -1,0 +1,28 @@
+{
+    "Foods": [
+        {
+            "Name": "Cola",
+            "Price": "1.60"
+        },
+        {
+            "Name": "Cheese Burger",
+            "Price": "5.00"
+        },
+        {
+            "Name": "Chicken Burger",
+            "Price": "4.40"
+        },
+        {
+            "Name": "Large Fries",
+            "Price": "1.40"
+        },
+        {
+            "Name": "Medium Fries",
+            "Price": "1.00"
+        },
+        {
+            "Name": "Small Fries",
+            "Price": "0.70"
+        }
+    ]
+}
